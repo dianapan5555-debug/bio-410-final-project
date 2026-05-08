@@ -13,4 +13,6 @@ for each source of data, state which files was in the repository corresponded to
 here is the phylogenetic tree
 insert image here (see markov cheat sheet)
 
-exmplain which samples are closely related to each other, how many individuals did these samples probably come from based on the phylogenetic tree
+![phylogenetic tree](image.jpg)
+
+explain which samples are closely related to each other, how many individuals did these samples probably come from based on the phylogenetic tree
