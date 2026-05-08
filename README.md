@@ -1,6 +1,6 @@
 # bio-410-final-project
 ## Background
-The data consists of samples from the organism 
+The data consists of samples from the organism Zaire ebolavirus. 
 
 ## Purpose 
 The purpose of this project is to create a phylogenetic tree from 6 samples in order to determine th eevolutionary relationship between the samples.
@@ -12,4 +12,5 @@ for each source of data, state which files was in the repository corresponded to
 ## Results
 here is the phylogenetic tree
 insert image here (see markov cheat sheet)
+!(image.jpg)
 exmplain which samples are closely related to each other, how many individuals did these samples probably come from based on the phylogenetic tree
