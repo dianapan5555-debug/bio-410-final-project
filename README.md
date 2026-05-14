@@ -16,6 +16,6 @@ The sequencing reads themselves came from the Next Generation Sequecing (NGS) pr
 ## Results
 Pictured below is the phylogenetic tree.
 
-![phylogenetic tree](image.jpg)
+![phylogenetic tree](bioinformatics phylogenetic tree.png)
 
 The tree reveals 2 prominent branches that extend. Samples 2 and 3 are closely related to each other and form their own distinct lineage. Samples 1, 4, 5, 6, and 7 form the other separate cluster. Within this cluster, 1 and 6 are closely related, 4 and 7 are closely related, and 5 is more on its own. Based on this, the tree likely is representing 2 individuals or 2 distinct strains of the virus. Overall, the tree shows that the samples diverged into 2 clades which means that the samples involve at least 2 genetically distinct lineages of Zaire ebolavirus. 
